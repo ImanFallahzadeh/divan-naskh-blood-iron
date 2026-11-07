@@ -10,4 +10,4 @@ Download [DivanNaskh-BloodIron.ttf](DivanNaskh-BloodIron.ttf). On Windows, open 
 
 ## Credits and license
 
-The upstream font used for this adaptation is [Noto Naskh Arabic](https://github.com/notofonts/arabic) by the Noto Project Authors. The font is distributed under the [SIL Open Font License 1.1](OFL.txt).
+This Persian typeface is based on [Noto Naskh](https://github.com/notofonts/arabic) by the Noto Project Authors. The font is distributed under the [SIL Open Font License 1.1](OFL.txt).
