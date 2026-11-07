@@ -7,7 +7,3 @@ A Persian (Farsi) display typeface adapted by **Iman Fallahzadeh**. It pairs bla
 ## Download and install
 
 Download [DivanNaskh-BloodIron.ttf](DivanNaskh-BloodIron.ttf). On Windows, open the file and select **Install**.
-
-## Credits and license
-
-This Persian typeface is based on [Noto Naskh](https://github.com/notofonts/arabic) by the Noto Project Authors. The font is distributed under the [SIL Open Font License 1.1](OFL.txt).
